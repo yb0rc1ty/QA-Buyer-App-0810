@@ -1,0 +1,14 @@
+{
+  "appname": "QA Buyer App 0810",
+  "scope": "FullAccess",
+  "clientid": "2BBA9D30-AD16-4D90-B4B1-BECB1C0FC1D2",
+  "buyerid": "Connor_Lata_buyer",
+  "environment": "qa",
+  "anonymous": true,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
